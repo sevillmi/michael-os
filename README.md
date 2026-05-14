@@ -4,13 +4,10 @@ Interactive smartwatch-inspired portfolio built with React, TailwindCSS and Fram
 
 ## Overview
 
-Michael OS is a futuristic portfolio concept that simulates a smartwatch operating system connected to real-world integrations and API-focused projects.
+Michael OS is a futuristic portfolio experience designed to showcase technical projects, API integrations, automation workflows and interactive UI concepts.
 
-The project is being developed as part of my transition toward:
-- API Support Engineering
-- Solutions Engineering
-- Technical Support Engineering
-- SaaS Integrations
+The interface simulates a smartwatch operating system with animated navigation and modular applications connected to real-world tools and services.
+
 
 ## Current Features
 

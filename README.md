@@ -1,16 +1,43 @@
-# React + Vite
+# Michael OS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive smartwatch-inspired portfolio built with React, TailwindCSS and Framer Motion.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Michael OS is a futuristic portfolio concept that simulates a smartwatch operating system connected to real-world integrations and API-focused projects.
 
-## React Compiler
+The project is being developed as part of my transition toward:
+- API Support Engineering
+- Solutions Engineering
+- Technical Support Engineering
+- SaaS Integrations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Current Features
 
-## Expanding the ESLint configuration
+- Interactive smartwatch interface
+- Mouse-reactive animations
+- Animated UI transitions
+- Draggable navigation system
+- Real-time clock
+- Responsive UI concept
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- TailwindCSS
+- Framer Motion
+
+## Upcoming Features
+
+- 3D avatar integration
+- GitHub API integration
+- n8n automation dashboard
+- Incident monitoring center
+- API status widgets
+- Interactive resume
+- Live portfolio apps
+
+## Author
+
+Michael Sevilla
